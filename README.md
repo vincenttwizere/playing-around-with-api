@@ -22,3 +22,5 @@ Designed and developed by Vincent TWIZERE
 Connect with me on LinkedIn https://www.linkedin.com/in/vincent-twizere-35595326a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglt45xlOQnyT0EyymcIlAA%3D%3D
 
 Special thanks to Martin Svoboda for the incredible API that powers this project.
+
+link of Demo Presentation https://www.loom.com/share/e26ecaed01cc44c8b988be0f59bf14d9?sid=dbb9c6b4-20a6-4f28-ad1d-a138730a0119
